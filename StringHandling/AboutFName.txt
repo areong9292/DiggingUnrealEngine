@@ -1,0 +1,5 @@
+https://dev.epicgames.com/documentation/en-us/unreal-engine/fname-in-unreal-engine
+
+Specifically, Unreal Engine maintains a global table of unique strings, and an FName stores an instance number and an index reference to a given string, facilitating quick lookup and access.
+
+Checking That fName creation process and global table structure
